@@ -1,6 +1,4 @@
-/*
- *  Created a Table with name todo in the todoApplication.db file using the CLI.
- */
+
 
 const express = require("express");
 const { open } = require("sqlite");
